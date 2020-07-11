@@ -1,0 +1,69 @@
+.main {
+  width: 100%;
+  height: auto;
+}
+
+.cardDiv {
+  height: 450px;
+  width: 500px;
+  background-color: rgb(202, 160, 97);
+  border-radius: 7px;
+  box-shadow: 0px 0px 15px 2px rgb(136, 135, 135);
+  margin: auto;
+  margin-top: 30px;
+}
+
+.activityDiv {
+  margin: auto;
+  width: fit-content;
+  padding: 5px 30px;
+
+  padding-top: 0;
+}
+
+.activityDiv p {
+  font-size: 25px;
+  text-align: center;
+}
+.typeDiv {
+  margin: auto;
+  width: fit-content;
+  padding: 5px 30px;
+}
+
+.typeDiv p {
+  font-size: 25px;
+  text-align: center;
+}
+.linkDiv {
+  margin: auto;
+  width: fit-content;
+  padding: 5px 30px;
+}
+
+.linkDiv p {
+  font-size: 25px;
+  text-align: center;
+}
+.participantsDiv {
+  margin: auto;
+  width: fit-content;
+  padding: 5px 30px;
+}
+
+.participantsDiv p {
+  font-size: 25px;
+  text-align: center;
+}
+
+.reloadButton {
+  text-align: center;
+}
+
+.reloadButton button {
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  padding: 7px;
+  box-shadow: 5px 5px 10px rgb(106, 148, 165);
+}
